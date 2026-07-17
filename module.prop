@@ -1,0 +1,9 @@
+id=RedMI-HyperOS-Quick
+name=红米小米性能释放 - AI
+version=v1..3
+versionCode=11
+author=@墨羽
+description=红米小米性能释放，由AI进行调整与适配API
+axeronPlugin=12000
+banner=image.png
+updateJson=https://raw.githubusercontent.com/Qingyu-ch/RedMI-HyperOS-QuickAXMod/refs/heads/main/update.json
