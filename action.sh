@@ -6,7 +6,6 @@ FLAG="$MODDIR/.applied"
 
 log() { echo "[HyperOS_Perf] $1"; }
 
-# ==================== 等待确认函数 ====================
 WAIT_CONFIRM() {
     local reason="$1"
     echo ""
@@ -20,7 +19,6 @@ WAIT_CONFIRM() {
     echo -e "\r 等待期结束，继续执行。          "
 }
 
-# ==================== 应用优化 ====================
 apply() {
     log "开始应用性能优化..."
 
